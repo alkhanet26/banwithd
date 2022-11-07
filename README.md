@@ -1,5 +1,5 @@
 # Bandwithd
-Install banwithd untuk Router
+Install bandwithd untuk Router
 
 Untuk router yang minim spek dan tidak bisa di buka di mobile phone dengan ftp
 1. untuk bandwithd ini membutuhkan pendukung ``luci-compat``
