@@ -1,4 +1,4 @@
-# banwithd
+# Bandwithd
 Install banwithd untuk Router
 
 Untuk router yang minim spek dan tidak bisa di buka di mobile phone dengan ftp
